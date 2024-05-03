@@ -148,10 +148,10 @@ body {
     height: 200px;
   }
   .boxShodow:hover{
-    box-shadow: rgba(31,223,100,1) 0px 2px 5px -1px, rgba(31,223,100,1) 0px 1px 3px -1px;
-    /* -webkit-box-shadow: 0px 0px 11px -3px rgba(31,223,100,1);
-    -moz-box-shadow: 0px 0px 11px -3px rgba(31,223,100,1);
-    box-shadow: 0px 0px 11px -3px rgba(31,223,100,1); */
+    box-shadow: #40c4ff 0px 2px 5px -1px, #40c4ff 0px 1px 3px -1px;
+    /* -webkit-box-shadow: 0px 0px 11px -3px #40c4ff;
+    -moz-box-shadow: 0px 0px 11px -3px #40c4ff;
+    box-shadow: 0px 0px 11px -3px #40c4ff; */
 
   }
 
