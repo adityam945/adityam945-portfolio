@@ -61,8 +61,9 @@ export default function Layout({ children }) {
 }
 
 
-import { NAME, DESIGNATION, SOCIAL_LINKS } from '../constants/constants';
+import { NAME, DESIGNATION, SOCIAL_LINKS, TECH_STACK } from '../constants/constants';
 import Image from 'next/image';
+import Link from 'next/link';
 
 import Aditya from "../public/Images/aditya.jpg"
 const Intro = () => {
@@ -79,7 +80,26 @@ const Intro = () => {
 
       {/* middle components */}
       <div className='beech z-20 flex flex-col overflow-y-scroll pt-48 top-48 space-y-6 divide-y divide-white overflow-x-hidden no-scrollbar px-4'>
-    
+     
+    {/*  */}
+    <div className='flex flex-col space-y-1 pt-6 '>
+      <div className='flex flex-col gap-y-4'>
+        <span className='text-Snow text-xs font-bold'>Tools</span>
+        <div className='flex flex-wrap gap-2'>
+          {TECH_STACK.map((item, index) => (
+            <span className='py-2 px-3 text-xs text-Snow bg-EveningBlack border-s rounded-full border-Blue'>{item}</span>
+          ))}
+        </div>
+      </div>
+    </div>
+    <>
+      <Link href='/ADITYA_MADHUSUDHAN_resume.pdf' target='_blank' className='flex flex-row text-LightGray items-center gap-x-4 pb-14 pt-4 text-center'>
+        <span className='text-Snow text-center'>Resume</span>
+        {/* <span>{icon}</span> */}
+      </Link>
+    </>
+
+
       </div>
 
       {/* fixed at bottom */}

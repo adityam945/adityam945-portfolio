@@ -1,12 +1,7 @@
 export const NAME = 'Aditya Madhusudhan';
 
-export const DESIGNATION = `Full Stack Engineer | AI/ML | AWS/Azure`;
+export const DESIGNATION = `Full Stack Engineer`;
 
-export const DETAILS = {
-  Residence: 'United States',
-  City: 'Tallahassee, FL',
-  Age: '24',
-};
 
 export const SKILLS = [
   {
@@ -32,27 +27,47 @@ export const SKILLS = [
 ];
 
 export const TECH_STACK = [
+  'APIs & RESTful API',
+  'Microservices',
+  'UI/UX',
+  'SQL & NoSQL',
+  'DevOps',
+
+  'Java',
+  'SpringBoot',
+  'Python',
+  'Flask',
+  'Django',
+  'Pandas',
+  'NumPy',
+
+  'AWS Cloud',
+  'Azure Cloud',
+  'Virutal Macines',
+  'Serverless Compute',
+  'Cloud Watch & Logging',
+
   'JavaScript',
   'ReactJS',
   'NextJS',
+  'Angular',
   'TypeScript',
   'NodeJS',
   'Redux',
-  'Zustand',
-  'CSS',
   'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
+  
   'MongoDB',
   'MySQL',
+  'MS SQL',
+  'DynamoDB',
+  'S3 Bucket',
+  'CosmosDB',
+
   'Git',
   'GitHub',
   'Jira',
-  'Figma',
-  'Adobe XD',
+  'Aglie',
+  'Kanban'
 ];
 
 export const CONTACTS = {
