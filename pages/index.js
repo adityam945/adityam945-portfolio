@@ -99,13 +99,13 @@ const Banner = () => {
                   </div>
 
                   <div className="flex items-center gap-x-1">
-                      <span className='text-base md:text-lg text-Blue font-bold'>💻4+</span>
+                      <span className='text-base md:text-lg text-Blue font-bold'>💻5+</span>
                       <span className='text-xs text-Snow'>Development Experience</span>
                   </div>
 
                   <div className="flex items-center gap-x-1">
                       <span className='text-base md:text-lg text-Blue font-bold'>👨‍💻2+</span>
-                      <span className='text-xs text-Snow'>Profexxional Experience</span>
+                      <span className='text-xs text-Snow'>Professional Experience</span>
                   </div>
 
                  

@@ -3,28 +3,6 @@ export const NAME = 'Aditya Madhusudhan';
 export const DESIGNATION = `Full Stack Engineer`;
 
 
-export const SKILLS = [
-  {
-    title: 'MERN Stack Developer',
-    level: '75%',
-  },
-  {
-    title: 'React Developer',
-    level: '91%',
-  },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
-  {
-    title: 'Backend Developer',
-    level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
-  },
-];
 
 export const TECH_STACK = [
   'APIs & RESTful API',
@@ -32,6 +10,7 @@ export const TECH_STACK = [
   'UI/UX',
   'SQL & NoSQL',
   'DevOps',
+  'Cloud Technologies', 
 
   'Java',
   'SpringBoot',

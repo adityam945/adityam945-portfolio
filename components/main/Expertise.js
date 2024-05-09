@@ -15,7 +15,9 @@ const data = [
     {
         id: 2,
         title: 'Data Science',
-        desc: [''],
+        desc: ['I have a fond interest in Data Science. I love to work on large-scale data and datasets to learn about data correlations and business insights.',
+             'I have worked on multiple research and implementation projects related to data science, building data mining models, machine learning models, and neural network models.'    
+            ],
     },
     {
         id: 3,
