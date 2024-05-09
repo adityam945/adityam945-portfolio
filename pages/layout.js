@@ -45,7 +45,7 @@ import { NAME, DESIGNATION, SOCIAL_LINKS, TECH_STACK, CONTACTS } from '../consta
 import Image from 'next/image';
 import Link from 'next/link';
 
-import Aditya from "../public/Images/aditya.jpg"
+import Aditya from "../public//Images/aditya.jpg"
 const Intro = () => {
   return (
     <>

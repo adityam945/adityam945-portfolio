@@ -21,7 +21,7 @@ const BannerLayout = ({ children }) => {
       <div
           className="relative backdrop-blur-sm w-full h-80 bg-fixed z-10"
           style={{
-              background: 'url(images/bg.jpg)',
+              background: 'url(/Images/bg.jpg)',
               backgroundRepeat: 'no-repeat',
               backgroundSize: 'cover',
           }}>
@@ -83,7 +83,7 @@ const Banner = () => {
 
                       </div>
                       <div className="w-48 h-52 relative hidden md:block">
-                          <img className='absolute top-8 w-full h-full'src="images/memoji.png" alt="emoji" />
+                          <img className='absolute top-8 w-full h-full'src="/Images/memoji.png" alt="emoji" />
                       </div>
                   </div>
               </div>
