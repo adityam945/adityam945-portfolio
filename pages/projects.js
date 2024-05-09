@@ -6,7 +6,7 @@ const projects = [
         id: 0,
         projectName: "Image Crypotography and Steganography for Secure Data Transfer",
         url: "https://github.com/adityam945/",
-        image: "images/image_crypto.jpeg",
+        image: "/Images/image_crypto.jpeg",
         projectDetail: "A cryptography system that encrypts visual data",
         technologiesUsed: [
             {
@@ -31,7 +31,7 @@ const projects = [
         id: 1,
         projectName: "Medicinal Plants Classification",
         url: "",
-        image: "images/medicine.jpg",
+        image: "/Images/medicine.jpg",
         projectDetail: "A Neural Network trained to classifiy medicinal plant",
         technologiesUsed: [
             {
@@ -56,7 +56,7 @@ const projects = [
         id: 2,
         projectName: "Edge-Disjoint Partitioning",
         url: "https://github.com/adityam945/EDP-JAVA",
-        image: "images/edge-disjoint.jpeg",
+        image: "/Images/edge-disjoint.jpeg",
         projectDetail: "Sub-Graph shortest path finding problem",
         technologiesUsed: [
             {
@@ -81,7 +81,7 @@ const projects = [
         id: 3,
         projectName: "Image compression using Auto-Encoders",
         url: "https://github.com/adityam945/DL-autoencoders",
-        image: "images/auto.png",
+        image: "/Images/auto.png",
         projectDetail: "Neural Network AutoEncoders",
         technologiesUsed: [
             {
@@ -107,7 +107,7 @@ const projects = [
         id: 4,
         projectName: "Logistic Regression and ResNet",
         url: "https://github.com/adityam945/DeepLearning_LogisticRegression",
-        image: "images/logistic.jpg",
+        image: "/Images/logistic.jpg",
         projectDetail: "Neural Network",
         technologiesUsed: [
             {
@@ -136,7 +136,7 @@ const projects = [
         id: 5,
         projectName: "Taralabalu Samsthana",
         url: "https://apksos.com/app/com.taralabalu.androidapp  ",
-        image: "images/react.png",
+        image: "/Images/react.png",
         projectDetail: "Native Mobile Application",
         technologiesUsed: [
             {
@@ -161,7 +161,7 @@ const projects = [
         id: 6,
         projectName: "Performance Based Adaptive Questioning",
         url: "https://github.com/adityam945/web-mini-adaptive-question",
-        image: "images/quiz.jpg",
+        image: "/Images/quiz.jpg",
         projectDetail: "A student evaluation application",
         technologiesUsed: [
             {
@@ -187,7 +187,7 @@ const projects = [
         id: 7,
         projectName: "VTU-CSE Native Mobile App",
         url: "https://github.com/adityam945/VTU-CSE-App",
-        image: "images/notes.jpg",
+        image: "/Images/notes.jpg",
         projectDetail: "A mobile application with academic materials.",
         technologiesUsed: [
             {
@@ -214,7 +214,7 @@ const projects = [
         id: 8,
         projectName: "Slot Booking System",
         url: "https://github.com/adityam945/Simple-JSF_DBMS-CURD-operation",
-        image: "images/slot.jpeg",
+        image: "/Images/slot.jpeg",
         projectDetail: "CRUD JSF-HTML, MySQL slot booking system",
         technologiesUsed: [
             {
@@ -242,7 +242,7 @@ const projects = [
         id: 9,
         projectName: "Working of Queue in OpenGL",
         url: "https://github.com/adityam945/",
-        image: "images/queue.png",
+        image: "/Images/queue.png",
         projectDetail: "A OpenGL program representing Queue Data sturucture",
         technologiesUsed: [
             {
