@@ -17,16 +17,68 @@ const eduCards = [
         detail: "Masters's Degree in Computer Science",
         year: '2022-2024'
     },
+    {
+        id: 0,
+        title: 'Visvesvaraya Technological University (VTU)',
+        degree: 'BS, Computer Science and Engineering',
+        detail: "Bachelor’s Degree in Computer Science and Engineering",
+        year: '2017-2021'
+    },
 
 ]
 
 const expCards = [
     {
+        id: 0,
+        title: 'FSU Office of Distance Learning',
+        role: 'Assessment & Testing (Applacition Development)',
+        url: '',
+        desc: 'Developed a full stack proctor scheduling application product utilizing the tech stack Next JS, Python, Flask API, and MongoDB NoSQL technology to improve resource allocation by 50% in the testing and assessment office.',
+        year: 'October 2023 - May 2024',
+        location: 'Tallahassee, FL, US'
+    },
+    {
         id: 1,
         title: 'Grassroots',
         role: 'Software Engineer',
         url: '',
-        desc: 'Desc',
+        desc: 'Architected complex technical product customer-relationship products leveraging React JS, Java, SpringBoot, JavaScript, NodeJS and MySQL and Mongo architecture, resulting in a notable 2x increase in Business Product efficiency. Applied large-scale data aggregation and processing techniques with Java and SpringBoot packages to enhance customer retention rates and satisfaction indices for a restaurant franchise, leading to a remarkable 25% increase in dine-in.',
+        year: 'August 2021 – April 2022',
+        location: 'Bengaluru, KA, IN'
+    },
+    {
+        id: 2,
+        title: 'Oxyease Healthcare Services pvt Ltd',
+        role: 'Software Development Intern',
+        url: '',
+        desc: 'Planned and designed a robust medical inventory management system utilizing in fast-paced environment React, JavaScript NodeJS, and MySQL architecture, streamlining inventory tracking and delivery management processes. Devised API services in, Java, SpringBoot handling subscriptions and renewal for over 10 different types of products',
+        year: 'February 2021 – June 2021',
+        location: 'Bengaluru, KA, IN'
+    },
+    {
+        id: 3,
+        title: 'Marek Adventures',
+        role: 'Software Development Intern',
+        url: '',
+        desc: 'Innovated and built a visually appealing and responsive UI/UX front end web site for an African touring firm using WordPress, HTML and JS, increased SEO ensuring 2x the online presence.',
+        year: 'October 2020 – December 2020',
+        location: 'Bengaluru, KA, IN'
+    },
+    {
+        id: 4,
+        title: 'Esilicon TechnoDesign Private Limited',
+        role: 'Software Development Intern',
+        url: '',
+        desc: 'Defined data preprocessing algorithms capable of handling 2GB of data before updating SQL and NoSQL databases. Processed and deployed the algorithms in, Node, Express JS RESTful API to triggers in failing details and error logging in semiconductor machinery, provided a 20% better inventory analysis.',
+        year: 'July 2020 – September 2020',
+        location: 'Bengaluru, KA, IN'
+    },
+    {
+        id: 5,
+        title: 'NH Robotics',
+        role: 'Freelance Software Engineer',
+        url: '',
+        desc: 'Collaborated on backend Robot Operating System (ROS server and bridge C++ and ROS packages, facilitating communication between the robot and the wireless server, and developed a frontend interface using React JS. Created backend services to conducted data analytics using Python packages to predict faulty robot parts, and modelled services for predicting collision distance and generating maps using image, IoT, and LiDAR data streams',
         year: 'dates-till',
         location: 'Bengaluru, KA, IN'
     },
