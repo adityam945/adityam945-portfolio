@@ -34,7 +34,7 @@ const expCards = [
         role: 'Assessment & Testing (Applacition Development)',
         url: '',
         desc: 'Developed a full stack proctor scheduling application product utilizing the tech stack Next JS, Python, Flask API, and MongoDB NoSQL technology to improve resource allocation by 50% in the testing and assessment office.',
-        year: 'October 2023 - May 2024',
+        year: 'October 2023 – May 2024',
         location: 'Tallahassee, FL, US'
     },
     {
@@ -79,7 +79,7 @@ const expCards = [
         role: 'Freelance Software Engineer',
         url: '',
         desc: 'Collaborated on backend Robot Operating System (ROS server and bridge C++ and ROS packages, facilitating communication between the robot and the wireless server, and developed a frontend interface using React JS. Created backend services to conducted data analytics using Python packages to predict faulty robot parts, and modelled services for predicting collision distance and generating maps using image, IoT, and LiDAR data streams',
-        year: 'dates-till',
+        year: '',
         location: 'Bengaluru, KA, IN'
     },
    
