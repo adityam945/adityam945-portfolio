@@ -1,3 +1,4 @@
+import Footer from "@/components/main/Footer";
 import ProjectsCard from "@/components/projects/ProjectsCard";
 
 const projects = [
@@ -283,6 +284,8 @@ const Projects = () => {
                 ))
             }
             </div >
+            <Footer />
+
         </ >
     );
 };

@@ -21,8 +21,8 @@ const data = [
     },
     {
         id: 3,
-        title: 'DevOps AWS/Azure',
-        desc: [''],
+        title: 'Cloud Enviornments',
+        desc: ['With cloud environments used in practically any project and enterprise, I have sound knowledge and experience in architecting, building, and deploying projects on cloud environments such as AWS/Azure cloud platforms. I worked with projects involving Virtual Machines, Serverless computing, API Gateways, SNS, SQS, NoSQL database, SQL database, BLOB, Cloud Watch, and deployment environments.'],
     },
     // {
     //     id: 4,

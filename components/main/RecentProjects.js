@@ -2,14 +2,29 @@ import RecentProjectsCard from "./components/RecentProjectsCard"
 
 const recentProjectCard = [
     {
-      id: 0,
-      name: 'DeepLearning LogisticRegression',
-      designation: 'React JS | NEXT JS',
-      view: "Project Description",
+        id: 0,
+        name: 'Edge-Disjoint Partitioning',
+        designation: 'JAVA | Graphs | Shortest-Pat | Dijkstra | A*',
+        view: "Sub-Graph shortest path finding problem",
+        projectLink: "https://github.com/adityam945/EDP-JAVA"
+      },
+      {
+        id: 1,
+        name: 'Image compression using Auto-Encoders',
+        designation: 'Python | Neural Networks | Torch | Auto-encoders | ML Models',
+        view: "Neural Network AutoEncoders",
+        projectLink: "https://github.com/adityam945/DL-autoencoders"
+      },
+    {
+      id: 2,
+      name: 'DeepLearning Logistic Regression and ResNet',
+      designation: 'Python | Neural Networks | Torch | ResNet | Logistic Regression',
+      view: "DeepLearning & Neural Network",
       projectLink: "https://github.com/adityam945/DeepLearning_LogisticRegression"
     },
-   
   ]
+
+
 const RecentProjects = () => {
 
     return (
