@@ -77,6 +77,8 @@ const Banner = () => {
                               </div>
                           </div>
                           <button className="button" onClick={() => router.push("/experience")}>Experience</button>
+                          <button className="button m-5" onClick={() => router.push("/projects")}>Projects</button>
+
                           {/* <button className="button ml-2" onClick={() => router.push("/experience")}>Experience</button> */}
 
                       </div>
